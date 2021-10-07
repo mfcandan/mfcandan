@@ -17,7 +17,7 @@ Hi, I'm Fatih Candan, a highly motivated and inquisitive computer science gradua
 
 ### 📚Projects
 
--[Shopping Cart & Market App](https://github.com/mfcandan/react-shop-app) : Shopping Market and Cart App built with React, Redux, Styled Components. 
--[Product Listing & Cart App](https://github.com/mfcandan/redux-shoppingcart-app) : Product Listing Cart App built with React, Redux.  
+- [Shopping Cart & Market App](https://github.com/mfcandan/react-shop-app) : Shopping Market and Cart App built with React, Redux, Styled Components. 
+- [Product Listing & Cart App](https://github.com/mfcandan/redux-shoppingcart-app) : Product Listing Cart App built with React, Redux.  
 
 
