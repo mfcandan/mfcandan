@@ -7,7 +7,7 @@ Hi, I'm Fatih Candan, a highly motivated and inquisitive computer science gradua
 - 🌱 I’m currently learning mobile development with React Native
 - 💬 Ask me about ... Frontend Development, Game Development & AR/VR
 - 📫 How to reach me: [E-mail](mfatihcandan@gmail.com)
-- 📫 Web site: [Web Site](www.mfatihcandan.com)
+- 📫 [Web Site](www.mfatihcandan.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Moto-Rider 
 
