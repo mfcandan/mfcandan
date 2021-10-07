@@ -16,7 +16,12 @@ Hi, I'm Fatih Candan, a highly motivated and inquisitive computer science gradua
 ---
 
 ### 📚Projects
-javascript typescript react redux nodejsmongodbfirebasefirebase python flask
+[image](https://user-images.githubusercontent.com/16592899/136439218-5d752aa7-2ba1-410c-82b4-789b1970d2c9.png)
+[image](https://user-images.githubusercontent.com/16592899/136439248-68add149-5ed2-4162-a043-407585fc5260.png)
+[image](https://user-images.githubusercontent.com/16592899/136439264-235cec0f-1f21-4bbb-896d-7e0e753cc99c.png)
+[image](https://user-images.githubusercontent.com/16592899/136439288-5de61902-4e85-4b0d-8ef7-0610ee178a08.png)
+[image](https://user-images.githubusercontent.com/16592899/136439312-0345e1a8-7d57-4f8e-8c7a-fad3deacb7da.png)
+
 
 ```
 
