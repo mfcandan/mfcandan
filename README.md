@@ -12,3 +12,8 @@ Hi, I'm Fatih Candan, a highly motivated and inquisitive computer science gradua
 - 😄 Pronouns: He/Him
 - ⚡🍺 Fun fact: Moto-Rider 
 
+```
+
+### 📚Projects
+
+
