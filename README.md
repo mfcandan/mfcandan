@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello There 👋
 
-<!--
-**mfcandan/mfcandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Fatih Candan, a highly motivated and inquisitive computer science graduate with related education and project experience in software design and programming. Experienced with React, React Native, Redux, Hooks, Next.js, Firebase, Jest, Styled Components and HTML/CSS. I am eager to research about NFT & Generative Art.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on Frontend Development with React.js
+- 🌱 I’m currently learning mobile development with React Native
+- 💬 Ask me about ... Frontend Development, Game Development & AR/VR
+- 📫 How to reach me: [E-mail](mfatihcandan@gmail.com)
+- 📫 Web site: [Web Site](www.mfatihcandan.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Moto-Rider 
+
