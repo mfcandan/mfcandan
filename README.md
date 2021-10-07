@@ -1,4 +1,4 @@
-### Hello There 👋
+### Hello There 🐾
 
 Hi, I'm Fatih Candan, a highly motivated and inquisitive computer science graduate with related education and project experience in software design and programming. Experienced with React, React Native, Redux, Hooks, Next.js, Firebase, Jest, Styled Components and HTML/CSS. I am eager to research about NFT & Generative Art.
 
@@ -7,7 +7,8 @@ Hi, I'm Fatih Candan, a highly motivated and inquisitive computer science gradua
 - 🌱 I’m currently learning mobile development with React Native
 - 💬 Ask me about ... Frontend Development, Game Development & AR/VR
 - 📫 How to reach me: [E-mail](mfatihcandan@gmail.com)
-- 📫 [Web Site](www.mfatihcandan.com)
+- 💻 [Web Site](www.mfatihcandan.com)
+- 🌍 [Linkedin](https://www.linkedin.com/in/mfcandan)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Moto-Rider 
+- ⚡🍺 Fun fact: Moto-Rider 
 
