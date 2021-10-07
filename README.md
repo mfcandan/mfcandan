@@ -16,6 +16,7 @@ Hi, I'm Fatih Candan, a highly motivated and inquisitive computer science gradua
 ---
 
 ### 📚Projects
+javascript typescript react redux nodejsmongodbfirebasefirebase python flask
 
 ```
 
