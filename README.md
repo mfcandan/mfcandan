@@ -25,4 +25,4 @@ Hi, I'm Fatih Candan, a highly motivated and inquisitive computer science gradua
 
 
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username &theme=radical)
